@@ -1,2 +1,0 @@
-export const API_KEY = "840192b1e3564db49b2371f78ecc00c4";
-//# sourceMappingURL=config.js.map
